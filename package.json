@@ -1,0 +1,11 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Testing ",
+  "main": "DateValue.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Me",
+  "license": "ISC"
+}
