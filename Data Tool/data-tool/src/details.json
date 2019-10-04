@@ -1,0 +1,45 @@
+ [
+    {
+        "data" : "Abc",
+        "status": "200",
+        "config": "On",
+        "SKU":"14141-S5"
+    },
+        
+    {
+        "data" : "bcd",
+        "status": "400",
+        "config": "On",
+        "SKU":"14141-S5"
+    },
+
+    {
+        "data" :"JKL",
+        "status": "400",
+        "config": "Off",
+        "SKU":"15122-D5"
+    },
+
+    {
+        "data" :"MNP",
+        "status": "200",
+        "config": "On",
+        "SKU":"15122-D5"
+    },
+    {
+        "data" :"PQR",
+        "status": "500",
+        "config": "Off",
+        "SKU":"15122-D5"
+        
+        
+    },
+
+    {
+        "data" :"RST",
+        "status": "200",
+        "config": "On",
+        "SKU":"14141-S5"
+        
+    }
+]

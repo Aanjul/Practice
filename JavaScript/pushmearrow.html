@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>When not  use arrow function</title>
+</head>
+<body>
+<style>
+	button {font-size: 100px;}
+	.on{background:  #ffc600 }
+</style>
+<button id="pushy">Push Me</button>
+
+<script>
+	const button  = document.querySelector('#pushy');
+	button.addEventsListener('click', function() {
+		console.log(this);
+		this.classList.toggle('on');
+		});
+
+		
+const  person = {
+	points: 23,
+	score: () => {
+		this.points++;
+
+	}
+}
+
+	class Car {
+		construtor(make,colour){
+			this.make = make;
+			this.colour = colour;
+		}
+	}
+
+
+
+
+
+
+</script>
+
+</body>
+</html>

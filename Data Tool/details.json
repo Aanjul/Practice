@@ -1,0 +1,44 @@
+array = [
+    {
+        "data" : "Abc",
+        "status": "200",
+        "status": "text",
+        "config": "testdata1"
+    }
+        
+    {
+        "data" : "bcd",
+        "status": "400",
+        "status": "text",
+        "config": "testdata2"
+    }
+
+    {
+        "data" :"JKL",
+        "status": "400",
+        "status": "text",
+        "config": "testdata3"
+    }
+
+    {
+        "data" :"MNPq",
+        "status": "500",
+        "status": "text",
+        "config": "testdata4"
+    }
+    {
+        "data" :"PQR",
+        "status": "500",
+        "status": "text",
+        "config": "testdata5"
+        
+    }
+
+    {
+        "data" :"RST",
+        "status": "200",
+        "status": "text",
+        "config": "testdata6"
+        
+    }
+]

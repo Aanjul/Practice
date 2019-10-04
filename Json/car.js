@@ -1,0 +1,33 @@
+const data =
+[
+    {
+        "Carname": "Bentley",
+        "Type": "Hatchback",
+        "DateofLaunch": "2019-11-12",
+        "Color": "MattGrey",
+        "Image" : "/home/aanjul/Downloads/gettyimages.jpg"
+
+    },
+    {
+    "Carname": "Landrover",
+    "Type": "SUV",
+    "DateofLaunch": "2019-02-11",
+    "Color": "CloudBlue",
+    "Image" : "/home/aanjul/Downloads/landrover.png"
+    
+    },
+    {
+    "Carname": "Masarati",
+    "Type": "Sedan",
+    "DateofLaunch": "2018-12-29",
+    "Color": "SkyWhite",
+    "Image" : "/home/aanjul/Downloads/masarati.jpg"
+
+    }
+
+];
+
+
+module.export({
+    data
+});
